@@ -1,0 +1,97 @@
+{
+  "identifier": "1a3l.pdb",
+  "index": "1a3l.pdb",
+  "config": "./configs/test/codesign_single.yml",
+  "items": [
+    {
+      "name": "1a3l.pdb-H_CDR1",
+      "tag": "H_CDR1",
+      "cdr": "H_CDR1",
+      "residue_first": [
+        "H",
+        26,
+        " "
+      ],
+      "residue_last": [
+        "H",
+        32,
+        " "
+      ]
+    },
+    {
+      "name": "1a3l.pdb-H_CDR2",
+      "tag": "H_CDR2",
+      "cdr": "H_CDR2",
+      "residue_first": [
+        "H",
+        52,
+        " "
+      ],
+      "residue_last": [
+        "H",
+        56,
+        " "
+      ]
+    },
+    {
+      "name": "1a3l.pdb-H_CDR3",
+      "tag": "H_CDR3",
+      "cdr": "H_CDR3",
+      "residue_first": [
+        "H",
+        95,
+        " "
+      ],
+      "residue_last": [
+        "H",
+        102,
+        " "
+      ]
+    },
+    {
+      "name": "1a3l.pdb-L_CDR1",
+      "tag": "L_CDR1",
+      "cdr": "L_CDR1",
+      "residue_first": [
+        "L",
+        24,
+        " "
+      ],
+      "residue_last": [
+        "L",
+        34,
+        " "
+      ]
+    },
+    {
+      "name": "1a3l.pdb-L_CDR2",
+      "tag": "L_CDR2",
+      "cdr": "L_CDR2",
+      "residue_first": [
+        "L",
+        50,
+        " "
+      ],
+      "residue_last": [
+        "L",
+        56,
+        " "
+      ]
+    },
+    {
+      "name": "1a3l.pdb-L_CDR3",
+      "tag": "L_CDR3",
+      "cdr": "L_CDR3",
+      "residue_first": [
+        "L",
+        89,
+        " "
+      ],
+      "residue_last": [
+        "L",
+        97,
+        " "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[2025-02-24 23:43:27,452::sample::INFO] Data ID: 3QHF_Fv.pdb
+[2025-02-24 23:43:27,452::sample::INFO] Results will be saved to ./results/codesign_single/3QHF_Fv.pdb_2025_02_24__23_43_27
+[2025-02-24 23:43:27,503::sample::INFO] Loading model config and checkpoints: ./trained_models/codesign_single.pt
+[2025-02-24 23:43:33,844::sample::INFO] <All keys matched successfully>
+[2025-02-24 23:43:34,362::sample::INFO] Start sampling for: H_CDR1
+[2025-02-24 23:44:23,648::sample::INFO] Finished.
+
+[2025-02-24 23:44:23,649::sample::INFO] Start sampling for: H_CDR2
+[2025-02-24 23:45:13,012::sample::INFO] Finished.
+
+[2025-02-24 23:45:13,012::sample::INFO] Start sampling for: H_CDR3
+[2025-02-24 23:46:02,956::sample::INFO] Finished.
+
+[2025-02-24 23:46:02,956::sample::INFO] Start sampling for: L_CDR1
+[2025-02-24 23:46:52,278::sample::INFO] Finished.
+
+[2025-02-24 23:46:52,278::sample::INFO] Start sampling for: L_CDR2
+[2025-02-24 23:47:41,841::sample::INFO] Finished.
+
+[2025-02-24 23:47:41,842::sample::INFO] Start sampling for: L_CDR3
+[2025-02-24 23:48:31,359::sample::INFO] Finished.
+

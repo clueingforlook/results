@@ -1,0 +1,21 @@
+{
+  "identifier": "1a3l.pdb",
+  "index": "1a3l.pdb",
+  "config": "./configs/test/codesign_multicdrs.yml",
+  "items": [
+    {
+      "name": "1a3l.pdb-MultipleCDRs",
+      "tag": "MultipleCDRs",
+      "cdrs": [
+        "H_CDR1",
+        "H_CDR2",
+        "H_CDR3",
+        "L_CDR1",
+        "L_CDR2",
+        "L_CDR3"
+      ],
+      "residue_first": null,
+      "residue_last": null
+    }
+  ]
+}

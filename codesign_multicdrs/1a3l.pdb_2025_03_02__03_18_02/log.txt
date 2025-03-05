@@ -1,0 +1,7 @@
+[2025-03-02 03:18:02,166::sample::INFO] Data ID: 1a3l.pdb
+[2025-03-02 03:18:02,166::sample::INFO] Results will be saved to ./results/codesign_multicdrs/1a3l.pdb_2025_03_02__03_18_02
+[2025-03-02 03:18:02,222::sample::INFO] Loading model config and checkpoints: ./trained_models/codesign_multicdrs.pt
+[2025-03-02 03:18:07,724::sample::INFO] <All keys matched successfully>
+[2025-03-02 03:18:07,803::sample::INFO] Start sampling for: MultipleCDRs
+[2025-03-02 03:19:06,721::sample::INFO] Finished.
+
