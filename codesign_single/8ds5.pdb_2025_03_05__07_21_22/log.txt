@@ -1,0 +1,22 @@
+[2025-03-05 07:21:22,468::sample::INFO] Data ID: 8ds5.pdb
+[2025-03-05 07:21:22,469::sample::INFO] Results will be saved to ./results/codesign_single/8ds5.pdb_2025_03_05__07_21_22
+[2025-03-05 07:21:22,547::sample::INFO] Loading model config and checkpoints: ./trained_models/codesign_single.pt
+[2025-03-05 07:21:28,633::sample::INFO] <All keys matched successfully>
+[2025-03-05 07:21:29,136::sample::INFO] Start sampling for: H_CDR1
+[2025-03-05 07:23:19,191::sample::INFO] Finished.
+
+[2025-03-05 07:23:19,192::sample::INFO] Start sampling for: H_CDR2
+[2025-03-05 07:25:19,590::sample::INFO] Finished.
+
+[2025-03-05 07:25:19,591::sample::INFO] Start sampling for: H_CDR3
+[2025-03-05 07:27:25,278::sample::INFO] Finished.
+
+[2025-03-05 07:27:25,279::sample::INFO] Start sampling for: L_CDR1
+[2025-03-05 07:29:39,784::sample::INFO] Finished.
+
+[2025-03-05 07:29:39,785::sample::INFO] Start sampling for: L_CDR2
+[2025-03-05 07:31:42,613::sample::INFO] Finished.
+
+[2025-03-05 07:31:42,614::sample::INFO] Start sampling for: L_CDR3
+[2025-03-05 07:33:55,634::sample::INFO] Finished.
+

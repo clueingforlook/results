@@ -1,0 +1,97 @@
+{
+  "identifier": "8ds5.pdb",
+  "index": "8ds5.pdb",
+  "config": "./configs/test/codesign_single.yml",
+  "items": [
+    {
+      "name": "8ds5.pdb-H_CDR1",
+      "tag": "H_CDR1",
+      "cdr": "H_CDR1",
+      "residue_first": [
+        "C",
+        26,
+        " "
+      ],
+      "residue_last": [
+        "C",
+        32,
+        " "
+      ]
+    },
+    {
+      "name": "8ds5.pdb-H_CDR2",
+      "tag": "H_CDR2",
+      "cdr": "H_CDR2",
+      "residue_first": [
+        "C",
+        52,
+        " "
+      ],
+      "residue_last": [
+        "C",
+        56,
+        " "
+      ]
+    },
+    {
+      "name": "8ds5.pdb-H_CDR3",
+      "tag": "H_CDR3",
+      "cdr": "H_CDR3",
+      "residue_first": [
+        "C",
+        95,
+        " "
+      ],
+      "residue_last": [
+        "C",
+        102,
+        " "
+      ]
+    },
+    {
+      "name": "8ds5.pdb-L_CDR1",
+      "tag": "L_CDR1",
+      "cdr": "L_CDR1",
+      "residue_first": [
+        "B",
+        24,
+        " "
+      ],
+      "residue_last": [
+        "B",
+        34,
+        " "
+      ]
+    },
+    {
+      "name": "8ds5.pdb-L_CDR2",
+      "tag": "L_CDR2",
+      "cdr": "L_CDR2",
+      "residue_first": [
+        "B",
+        50,
+        " "
+      ],
+      "residue_last": [
+        "B",
+        56,
+        " "
+      ]
+    },
+    {
+      "name": "8ds5.pdb-L_CDR3",
+      "tag": "L_CDR3",
+      "cdr": "L_CDR3",
+      "residue_first": [
+        "B",
+        89,
+        " "
+      ],
+      "residue_last": [
+        "B",
+        97,
+        " "
+      ]
+    }
+  ]
+}

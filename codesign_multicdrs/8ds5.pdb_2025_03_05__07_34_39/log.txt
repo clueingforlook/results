@@ -1,0 +1,7 @@
+[2025-03-05 07:34:39,043::sample::INFO] Data ID: 8ds5.pdb
+[2025-03-05 07:34:39,043::sample::INFO] Results will be saved to ./results/codesign_multicdrs/8ds5.pdb_2025_03_05__07_34_39
+[2025-03-05 07:34:39,115::sample::INFO] Loading model config and checkpoints: ./trained_models/codesign_multicdrs.pt
+[2025-03-05 07:34:45,971::sample::INFO] <All keys matched successfully>
+[2025-03-05 07:34:46,204::sample::INFO] Start sampling for: MultipleCDRs
+[2025-03-05 07:37:03,799::sample::INFO] Finished.
+
